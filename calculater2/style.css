@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    
+}
+.container table{
+    margin: auto;
+
+}
+button{
+    font-size: 33px;
+    background-color: aqua;
+    height: 53px;
+    width: 103px;
+    border-radius: 1px 28px;
+}
+input{
+    font-size: 34px;
+    border-color:1px blue;
+    border-radius: 1px 8px;
+    background-color: rgb(87, 78, 78);
+}
+.box
+{
+    background-color: blueviolet;
+  width: 468px;
+  border-radius: 9px;
+  height: 425px;
+  margin-left: 355px;
+  border:2px solid rgb(10, 137, 241);
+}
+.container h1{
+    color: chartreuse;
+}
